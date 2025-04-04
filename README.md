@@ -12,6 +12,9 @@ This is a responsive personal portfolio website with an integrated chatbot assis
   - Contact: Social media and email links
 - **Interactive Chatbot**: Answers questions about skills, experience, and more
 
+## Command for running website server
+-"npx --yes http-server".
+
 ## Technologies Used
 - HTML5
 - CSS3 (with responsive design)
