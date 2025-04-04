@@ -50,15 +50,13 @@ This portfolio now includes an integrated chatbot powered by Together AI's API. 
 - Implement form functionality for direct contact
 - Add animations for better user experience
 
-## screenshots for webpage
--profile screenshots
-[Screenshot 2025-04-04 153036](https://github.com/user-attachments/assets/cbf1023e-5c7a-497c-a7e3-afbf88a73d8a)
-[Screenshot 2025-04-04 152733](https://github.com/user-attachments/assets/22a27d94-6514-43b9-bf5a-70f61087a4c0)
-
--chatbot screenshots
-![Screenshot 2025-04-04 152757](https://github.com/user-attachments/assets/d61375a5-d99b-4b2b-b406-13c6deffd6b8)
-![Scree![Screenshot 2025-04-04 152817](https://github.com/user-attachments/assets/39ede866-1615-4a49-acf9-3b934f8a3125)
-nshot 2025-04-04 152808](https://github.com/user-attachments/assets/10fe8ff3-49ec-4b98-9fa5-67a77eb08a4f)
+## screenshots  for webpage
+![Screenshot 2025-04-04 153036](https://github.com/user-attachments/assets/0c75cea7-55a0-4d6a-9b9b-998f58d04cb2)
+![Screenshot 2025-04-04 152723](https://github.com/user-attachments/assets/b06144e5-8583-4b9e-984c-5991254f1fec)
+![Screenshot 2025-04-04 152733](https://github.com/user-attachments/assets/5e2d092a-8755-49f7-a48c-3ae07c8dde88)
+![Screenshot 2025-04-04 152757](https://github.com/user-attachments/assets/fb490744-6cb4-41db-9fa2-5c86fdceb1ba)
+![Screenshot 2025-04-04 152808](https://github.com/user-attachments/assets/ebf0d250-034d-461f-8af8-0f62107aa925)
+![Screenshot 2025-04-04 152817](https://github.com/user-attachments/assets/a03229c2-16fc-49a0-bd1c-bf13e6e7e58d)
 
 
 ## License
