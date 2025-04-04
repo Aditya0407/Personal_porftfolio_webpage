@@ -12,6 +12,9 @@ This is a responsive personal portfolio website with an integrated chatbot assis
   - Contact: Social media and email links
 - **Interactive Chatbot**: Answers questions about skills, experience, and more
 
+## Command for running the website server
+-"npx --yes http-server".
+
 ## Technologies Used
 - HTML5
 - CSS3 (with responsive design)
@@ -41,8 +44,6 @@ This portfolio now includes an integrated chatbot powered by Together AI's API. 
 3. Replace `YOUR_TOGETHER_API_KEY` in script.js with your actual API key
 > Note: If no API key is provided, the chatbot will fall back to a local response system that still provides accurate information based on the resume data.
 
-## command for running the website server
--"npx --yes http-server".
 ## Future Improvements
 - Add a projects gallery section
 - Implement form functionality for direct contact
